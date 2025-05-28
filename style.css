@@ -12,6 +12,19 @@ h1{
   color: white;
 }
 
+h2 {
+  color: pink;
+  font-family: cursive;
+  
+}
+
+#sad {
+  color: blue;
+  font-size: 3em;
+  font-family: fantasy;
+}
+
+
 #myCanvas {
   background-size: 600px 400px;
   border-radius: 30px;
